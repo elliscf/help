@@ -38,4 +38,4 @@ The key's randomart image is:
 
 # Useful Git commands
 
-[Git commands] (https://www.loginradius.com/blog/async/git-commands/)
+[Git commands](https://www.loginradius.com/blog/async/git-commands/)
