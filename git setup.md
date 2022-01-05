@@ -11,7 +11,7 @@ Git and GitHub for Beginners - Crash Course [Gwen](https://www.youtube.com/watch
 
 Link for setting up [SSh key setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
-Creating SSH key pass phrase is ## Trinidad ##
+Creating SSH key pass phrase is ***Trinidad***
 
 
 C:\Users\chris.ellis>ssh-keygen -t ed25519 -C "elliscf@mc.com"
