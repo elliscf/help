@@ -6,10 +6,10 @@ setup of Git and Github ; Using SSH
 
 # Git /Github tutorial
 
-Git and GitHub for Beginners - Crash Course [Gwen] (https://www.youtube.com/watch?v=RGOj5yH7evk)
+Git and GitHub for Beginners - Crash Course [Gwen](https://www.youtube.com/watch?v=RGOj5yH7evk)
 
 
-Link for setting up [SSh key setup] (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+Link for setting up [SSh key setup](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 Creating SSH key pass phrase is ## Trinidad ##
 
